@@ -1,5 +1,5 @@
 {
     "cmd": ["grunt", "--no-color"],
     "selector": ["source.js", "source.less", "source.json"],
-    "path" : "/usr/local/bin"
+    "path" : "/usr/local/bin" // path you your node.js 
 }
