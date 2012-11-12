@@ -1,4 +1,5 @@
 {
     "cmd": ["grunt", "--no-color"],
-    "selector": ["source.js", "source.less", "source.json"]
+    "selector": ["source.js", "source.less", "source.json"],
+    "path" : "/usr/local/bin"
 }
